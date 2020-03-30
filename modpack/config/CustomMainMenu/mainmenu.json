@@ -111,17 +111,42 @@
 
     "labels":
     {
-        "label":
+        "mods":
         {
-            "text" : "Crafted with love by Dragon Projects.",
+            "text" : "#modsloaded# mods loaded.",
             "posX" : -197,
             "posY" : -10,
             "color" : -1,
-            "alignment" : "bottom_right",
+            "alignment" : "bottom_right"
+        },
+
+        "dragoncraft":
+        {
+            "text" : "Dragon Craft by Dragon Projects",
+            "hoverText" : "�nDragon Craft",
+            "posX" : 5,
+            "posY" : 5,
+            "color" : -1,
+            "alignment" : "top_left",
             "action" :
             {
-                "type" : "openLink",
-                "link" : "https://dragonprojects.nl"
+              "type" : "openLink",
+              "link" : "https://craft.dragonprojects.nl"
+            }
+        },
+
+        "mojang":
+        {
+            "text" : "Minecraft © Mojang AB",
+            "hoverText" : "�nMinecraft © Mojang AB",
+            "posX" : 5,
+            "posY" : 16,
+            "color" : -1,
+            "alignment" : "top_left",
+            "action" :
+            {
+                "type" : "openGui",
+                "link" : "credits"
             }
         }
     },
