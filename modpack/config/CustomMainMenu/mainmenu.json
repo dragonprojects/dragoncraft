@@ -111,7 +111,7 @@
 
     "labels":
     {
-        "label":
+        "credits":
         {
             "text" : "Crafted with love by Dragon Projects.",
             "posX" : -197,
@@ -120,8 +120,8 @@
             "alignment" : "bottom_right",
             "action" :
             {
-                "type" : "openLink",
-                "link" : "https://dragonprojects.nl"
+                "type" : "openGui",
+                "gui" : "credits"
             }
         }
     },
