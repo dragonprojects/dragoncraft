@@ -62,11 +62,10 @@ Die Gedanken sind frei
 Pineapple on pizza is the best
 f0 9f 90 89
 Penguins are amazing, especially as mascots
-100% bug-free***
+100% bug-free*
 sudo
 Contains cool mods
 Made by awesome people
-420 is also the answer
 Don't use double negatives
 Everything is interconnected
 Funniest **** I've ever seen!
@@ -79,16 +78,16 @@ The gateway to the starry sky
 Doubleplusgood!
 Grab, grab, grab!
 Daily reminder to take your prescribed soma!
-Who's there tommorow??? Tasty... Magnum
-The University of Utrecht is the best university of the world!
+Who's there tommorow??? Tasty... ice cream...
 Dragonborns are the best race in D&D!
 Supercalifragilisticexpialidocious!
 This is now STATE PROPERTY
 Top Zozzle §kpzGpnbQ 
 Ra-Wie
-There is no splashtext
+There is no splash text
 Try interpreting this!
 The only thing imaginary about imaginary numbers is its complexity!
-Please restart your PC, there are important windows security updates awaiting
-Sudo apt apt-get splashscreen
+Please restart your PC, there are important security updates awaiting
+sudo apt-get splashscreen
 Please duck ducks on duck images
+Danke schön
