@@ -1,6 +1,0 @@
-{
-    "parent": "block/ctm",
-    "textures": {
-        "all": "blocks/stone_granite_smooth_border", "base": "blocks/stone_granite_smooth"
-    }
-}
