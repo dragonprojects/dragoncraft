@@ -8,6 +8,7 @@ Has this joke gone too far?
 Sprilaling down my magesty...
 Welcome to the Dragon Cult
 console.log("nerd")
+echo "This is Cave Johnson"
 Rawr
 Power is power
 Linux is the best
@@ -18,6 +19,7 @@ I'm not your therapist
 Black or royal blue?
 I'm not in denial
 Be rational!
+Be real!
 It's over, isn't it?
 Boop!
 Includes multiple layers
@@ -89,7 +91,9 @@ Try interpreting this!
 The only thing imaginary about imaginary numbers is its complexity!
 Please restart your PC, there are important security updates awaiting
 sudo apt-get splashscreen
+sudo pacman -S splashscreen
 Please duck ducks on duck images
 Danke schön
 Hello, homo sapiens sapiens!
 Do I look like I have something better to do?
+Flightning fast
