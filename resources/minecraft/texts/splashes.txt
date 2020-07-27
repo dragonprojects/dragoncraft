@@ -91,3 +91,5 @@ Please restart your PC, there are important security updates awaiting
 sudo apt-get splashscreen
 Please duck ducks on duck images
 Danke schön
+Hello, homo sapiens sapiens!
+Do I look like I have something better to do?
