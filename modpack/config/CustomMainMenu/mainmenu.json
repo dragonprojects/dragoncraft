@@ -63,7 +63,7 @@
             "action" :
             {
                 "type" : "connectToServer",
-                "ip" : "modded.craft.dragonprojects.nl"
+                "ip" : "modded.craft.dragonprojects.net"
             }
         },
 
