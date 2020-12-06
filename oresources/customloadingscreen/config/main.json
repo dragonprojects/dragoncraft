@@ -3,7 +3,9 @@
     "sample/mojang_splash",
     "sample/loading_bar_boss",
     "sample/loading_bar_boss_percentage",
-    "sample/text_percentage"
+    "sample/text_percentage",
+    "sample/text_status",
+    "sample/text_sub_status"
   ],
   "functions": [
   ],
