@@ -6,9 +6,6 @@
 §f			Dragon Projects
 §f			and the modders who made it possible!
 
-§7Special thanks:
-§f			Davwyn
-
 [C]§f===============
 [C]§eMinecraft Credits
 [C]§f===============

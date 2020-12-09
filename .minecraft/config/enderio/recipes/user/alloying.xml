@@ -96,7 +96,6 @@
     <alloying energy="20000" exp="0.5">
       <input name="oredict:endstone"/>
       <input name="ingotDarkSteel"/>
-      <input name="obsidian"/>
       <output name="ingotEndSteel"/>
     </alloying>
   </recipe>
